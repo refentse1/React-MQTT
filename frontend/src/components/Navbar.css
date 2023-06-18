@@ -1,0 +1,19 @@
+.navbar{
+    background-color: lightgray;
+    width: 100vw;
+    height: 8vh;
+    margin-bottom: 35px;
+}
+
+.nav-items{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.nav-item{
+    list-style: none;
+}
+.nav-link{
+    text-decoration: none;
+}
+
